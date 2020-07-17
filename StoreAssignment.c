@@ -1,4 +1,4 @@
-#include <stdio.h>
+F#include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <time.h>
@@ -155,7 +155,7 @@ int main(void) {
     } else if (randCat == 2) { //Brass
       if (randName == 0) name = "Trumpet";
       if (randName == 1) name = "Horn";
-      if (randName == 2) name = "trombone";
+      if (randName == 2) name = "Trombone";
       if (randName == 3) name = "Tuba";
     
       //Randomly choose yes or no
